@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.14"
+        version: "0.15"
         theme: material-design
         flags: --buildDrafts=true
 # This references the default golang container from
