@@ -6,4 +6,8 @@ type = "contact"
 
 +++
 
-What the fuck is this?
+Use the form below for Public Relations enquiries, or contact
+##### [Andrew Polak](mailto:pr@rodserling.com)
+##### Public relations
+##### pr@rodserling.com
+

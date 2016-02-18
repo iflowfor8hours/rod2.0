@@ -1,7 +1,7 @@
 canonifyurls = true
 paginate = 10
 theme="startbootstrap-clean-blog"
-baseurl = "your site url"
+baseurl = "localhost"
 languagecode = "en-us"
 title = "The Rod Serling Memorial Foundation"
 copyright = "© 2016 Rod Serling Memorial Foundation"
@@ -40,6 +40,6 @@ copyright = "© 2016 Rod Serling Memorial Foundation"
   weight = -140
 [[menu.main]]
   name = "Contact"
-  url = "/contact/individual"
+  url = "/contact"
   weight = -120
 
