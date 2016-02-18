@@ -11,5 +11,5 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages:
         token: $GIT_KEY
-#        domain: 
         basedir: public
+#        domain: 
