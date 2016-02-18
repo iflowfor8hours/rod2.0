@@ -2,8 +2,7 @@
 date = "2016-02-17T19:47:08-08:00"
 draft = false
 title = "Who We Are"
-categories = ["something"]
-tags = ["perma","stay","three"]
+type = "about"
 
 +++
 
@@ -48,5 +47,5 @@ There were several attempts to memorialize Rod Serling following his death. Don 
 
 In the fall of 1986, the Committee became the ROD SERLING FOUNDATION and was later recognized as a non-profit, tax exempt organization in 1987.
 
-AT RIGHT:
+![Sybil Goldenberg](images/toplevel/sybil.jpg)
 Sybil Goldenberg, Foundation Board Member, posing with a portion of our film archive. 1989. Source: New York Times
