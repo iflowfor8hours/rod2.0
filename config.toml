@@ -4,21 +4,21 @@ theme="startbootstrap-clean-blog"
 baseurl = "your site url"
 languagecode = "en-us"
 title = "The Rod Serling Memorial Foundation"
-copyright = "© 2015 rsmf"
+copyright = "© 2016 Rod Serling Memorial Foundation"
 
 [author]
   name = "The Rod Serling Memorial Foundation"
 
 [params]
   DateForm = "Jan 2, 2006"
-  Description = "I Describe the RSMF"
+  Description = "Binghamton, New York"
   Author = "RSMF"
   email = "rod@rodserling.com"
   Ganalytics = "XX-00000000-0"
 
 [[params.social]]
   title = "twitter"
-  url = "https://twitter.com/humboldtux"
+  url = "https://twitter.com/rodserlingfoundation"
 [[params.social]]
   title = "github"
   url = "https://github.com/humboldtux"
@@ -27,11 +27,19 @@ copyright = "© 2015 rsmf"
   url = "https://www.facebook.com/FACEBOOKHANDLE"
 
 [[menu.main]]
-  name = "home"
-  url = "/"
-  weight = -200
-[[menu.main]]
   name = "Archives"
   url = "/post/"
   weight = -180
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = -160
+[[menu.main]]
+  name = "About"
+  url = "/whoweare"
+  weight = -140
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/individual"
+  weight = -120
 
